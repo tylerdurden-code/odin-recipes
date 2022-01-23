@@ -1,5 +1,1 @@
-# odin-recipes
-Odin Recipes
-I Am Learning HTML in the last 2 days
-
-And thats my progress!!!
+My Recipe site...my progress learning html!!
